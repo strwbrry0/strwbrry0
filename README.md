@@ -28,6 +28,8 @@ aviation systems and AI is relevant.
 
 ### Contact
 - Email: zarhloulmyriam0@gmail.com
+
+[![Strwbrry0's GitHub stats](https://github-readme-stats.vercel.app/api?username=strwbrry0&show_icons=true&theme=tokyonight)](https://github.com/anuraghazr/github-readme-stats)
 <!--
 **strwbrry0/strwbrry0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
