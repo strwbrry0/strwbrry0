@@ -1,20 +1,16 @@
-## Hi there 👋
-### About me
-Aviation engineer with a strong background in computer science for air transport,
-AI, robotics, and cybersecurity.  
-Experience working on real-time systems, human–machine interaction, and
-AI applications in safety-critical contexts.
+# 💫 About Me:
+### About me<br>Aviation engineer with a strong background in computer science for air transport,AI and cybersecurity.  
+Experience working on real-time systems, human–machine interaction, andAI applications in safety-critical contexts.
 
 ### Currently open to
 - AI / Machine Learning Engineering roles
 - Systems Engineering roles
 - Embedded or Autonomous Systems Engineering roles
 
-Open to adjacent engineering positions where my background in
-aviation systems and AI is relevant.
+Open to adjacent engineering positions where my background in aviation systems and AI is relevant.
 
 ### Technical Skills
-- **Languages:** Python, C/C++, Java, SQL, Matlab, OCaml
+- **Languages:** Python, C/C++, Java, SQL, Matlab, OCaml<br>
 - **Development:** Git, Linux-based environments
 
 ### A bit more
@@ -26,10 +22,22 @@ aviation systems and AI is relevant.
 - French, English, Arabic
 - Basic Mandarin (learning)
 
-### Contact
-- Email: zarhloulmyriam0@gmail.com
 
-[![Strwbrry0's GitHub stats](https://github-readme-stats.vercel.app/api?username=strwbrry0&show_icons=true&theme=tokyonight)](https://github.com/anuraghazr/github-readme-stats)
+
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zarhloulmyriam0) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=strwbrry0&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=strwbrry0&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=strwbrry0&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=strwbrry0&icon=0&color=5)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **strwbrry0/strwbrry0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
