@@ -22,11 +22,11 @@ aviation systems and AI is relevant.
 - Enjoy traveling and discovering food from different cultures
 - Crochet and drawing in my free time
 
-- ### Languages
+### Languages
 - French, English, Arabic
 - Basic Mandarin (learning)
 
-- ### Contact
+### Contact
 - Email: zarhloulmyriam0@gmail.com
 <!--
 **strwbrry0/strwbrry0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
