@@ -1,6 +1,6 @@
 # About Me:
 I'm Myriam and I am an aviation engineer with a strong background in computer science for air transport, AI and cybersecurity.  
-Experience working on real-time systems, human–machine interaction, andAI applications in safety-critical contexts.
+Experience working on real-time systems, human–machine interaction, and AI applications in safety-critical contexts.
 
 ### Currently open to
 - AI / Machine Learning Engineering roles
